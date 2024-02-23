@@ -31,7 +31,6 @@
     <project name="android_kernel_samsung_exynos9820"        path="kernel/samsung/exynos9820"         remote="dependencies"      revision="lineage-21.0" />
 
     <!-- Dependencies -->
-    <project name="packages_apps_Updates"                              path="packages/apps/Updates"                   remote="orga"  revision="udc" />
     <project name="android_hardware_samsung"                           path="hardware/samsung"                        remote="orga"  revision="udc" />
     <project name="android_device_samsung_slsi_sepolicy"               path="device/samsung_slsi/sepolicy"            remote="dependencies"  revision="lineage-21.0" />
     <project name="android_hardware_samsung_slsi-linaro_graphics"      path="hardware/samsung_slsi-linaro/graphics"   remote="dependencies"  revision="lineage-21.0" />
